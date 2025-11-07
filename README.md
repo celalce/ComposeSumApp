@@ -6,7 +6,7 @@ This project demonstrates how to handle text input, state management, and button
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/celalce/ComposeSumApp/master/banner.png" alt="ComposeSumApp Banner" width="80%">
+  <img src="https://raw.githubusercontent.com/celalce/ComposeSumApp/master/celalce.png" alt="ComposeSumApp Banner" width="80%">
 </p>
 
 ---
